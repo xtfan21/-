@@ -26,24 +26,24 @@
 </html>
 <html>
 
-### meta标签 ### 
+### meta标签
 定义页面的描述信息,便于搜索优化
 <meta name="keywords" content="HTML,ASP,PHP,SQL">
 <meta charset="UTF-8">
 
-###  title标签### 
+###  title标签
 title可定义文档的标题。
   <head>
     <title>欢迎来到github</title>
   </head>
 
-###  link标签 ### 
+###  link标签
    没有结束标签。 引入一个外部样式表
 <head>
 <link rel="stylesheet" type="text/css" href="index.css" />
 </head>
 
-### style标签### 
+### style标签
   引用内联样式
   <div style="color:#000"></div>
   <head>
@@ -53,7 +53,7 @@ title可定义文档的标题。
     </style>
   </head>
   
- ### script标签### 
+ ### script标签
  定义内联或外联的脚本，如JS。
     <script src="http://www.my97.net/dp/My97DatePicker/WdatePicker.js" type="text/javascript"></script>
     或<script> var i =1 ; console.log(i)</script>
